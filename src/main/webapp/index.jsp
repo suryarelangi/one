@@ -9,6 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">added webhooks for pipine project</h1>
+	<h1 style="color: grey; font-size: 40px;" align="center">Completed MINI-PROJECT</h1>
 	
 	
 	
